@@ -98,7 +98,7 @@
 }
 
 .li-anchor:hover {
-  background-color: rgb(153, 0, 0);
+  background-color: #FF6C0C;
   transition: background-color 0.3s ease-in-out;
 }
 
@@ -126,7 +126,7 @@
 }
 
 .social-medias:hover {
-  background-color: rgb(153, 0, 0);
+  background-color: #FF6C0C;
   transition: background-color 0.3s ease-in-out;
 }
 
@@ -156,7 +156,7 @@
     flex-direction: column;
     position: absolute;
     width: 100%;
-    background-color: rgb(153, 0, 0);
+    background-color: #FF6C0C;
     padding: 10px;
     top: 84px; /* Starts at bottom of header bar */
     left: 0;
