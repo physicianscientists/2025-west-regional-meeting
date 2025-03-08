@@ -79,6 +79,7 @@
 
 .modal-content {
   background-color: rgb(107, 0, 13);
+  border-radius: 20px;
   margin: 10% auto; /* 10% from the top and centered */
   padding: 20px;
   width: 80%; /* Could be more or less, depending on screen size */
@@ -87,6 +88,7 @@
 }
 
 .modal-profile-picture {
+  border-radius: 20px;
   margin-bottom: 8px;
   object-fit: cover;
   width: 100%;
